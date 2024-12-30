@@ -1,4 +1,4 @@
 # demo
 this is my first git repository.
 <br>
-author-urvashi vankar
+author-Urvashi Vankar
